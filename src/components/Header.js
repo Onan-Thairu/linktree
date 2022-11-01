@@ -11,10 +11,10 @@ function Header() {
       <div className='flex justify-center mb-[5%]'>
         <img src={profile} alt="Profile" id='profile__img' />
       </div>
-      <div className='flex justify-center font-bold'>
+      <div className='flex justify-center font-bold text-lg'>
         <p id='twitter'>OnesNZeros</p>
       </div>
-      <div className='flex justify-center'>
+      <div className='flex justify-center mb-[5%]'>
         <p id='slack' hidden >Onan Thairu</p>
       </div>
     </div>
