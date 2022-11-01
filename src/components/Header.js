@@ -5,7 +5,7 @@ import profile from '../static/images/profile__img.png'
 function Header() {
   return (
     <div>
-      <div className='flex justify-end mr-[10%] mt-10'>
+      <div className='flex justify-end mr-[10%] mt-5'>
         <img src={share} alt="Share" />
       </div>
       <div className='flex justify-center mb-5'>
