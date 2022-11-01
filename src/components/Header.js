@@ -5,16 +5,16 @@ import profile from '../static/images/profile__img.png'
 function Header() {
   return (
     <div>
-      <div className='flex justify-end mr-[10%] mt-[10%]'>
+      <div className='flex justify-end mr-[10%] mt-10'>
         <img src={share} alt="Share" />
       </div>
-      <div className='flex justify-center mb-[5%]'>
+      <div className='flex justify-center mb-5'>
         <img src={profile} alt="Profile" id='profile__img' />
       </div>
       <div className='flex justify-center font-bold text-lg'>
         <p id='twitter'>OnesNZeros</p>
       </div>
-      <div className='flex justify-center mb-[5%]'>
+      <div className='flex justify-center mb-10'>
         <p id='slack' hidden >Onan Thairu</p>
       </div>
     </div>
