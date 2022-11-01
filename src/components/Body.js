@@ -9,7 +9,7 @@ function Body() {
       <a href='https://twitter.com/ByeNari' id='twitter' className=' bg-secondary-color py-6 px-8 rounded w-4/5 text-center font-medium hover:bg-gray-300'>Twitter</a>
       <a href='https://training.zuri.team/' id='btn__zuri' className=' bg-secondary-color py-6 px-8 rounded w-4/5 text-center font-medium hover:bg-gray-300'>Zuri Team</a>
       <a href='http://books.zuri.team/' id='books' className=' bg-secondary-color py-6 px-8 rounded w-4/5 text-center font-medium hover:bg-gray-300'>Zuri Books</a>
-      <a href='http://books.zuri.team/' id='book__python' className=' bg-secondary-color py-6 px-8 rounded w-4/5 text-center font-medium hover:bg-gray-300'>Python Books</a>
+      <a href='http://books.zuri.team/python-for-beginners?ref_id=Onan-Thairu' id='book__python' className=' bg-secondary-color py-6 px-8 rounded w-4/5 text-center font-medium hover:bg-gray-300'>Python Books</a>
       <a href='https://background.zuri.team/' id='pitch' className=' bg-secondary-color py-6 px-8 rounded w-4/5 text-center font-medium hover:bg-gray-300'>Background Check for Coders</a>
       <a href='https://books.zuri.team/design-rules' id='book__design' className=' bg-secondary-color py-6 px-8 rounded w-4/5 text-center font-medium hover:bg-gray-300'>Design Books</a>
     </div>
